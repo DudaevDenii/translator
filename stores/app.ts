@@ -30,9 +30,7 @@ export const useAppStore = defineStore("app", () => {
   const options = {
     method: "GET",
     headers: {
-      "Accept-Encoding": "application/gzip",
-      "X-RapidAPI-Key": "670066679amshad2e1f72e6ab618p15551fjsne8bca8659085",
-      "X-RapidAPI-Host": "google-translate1.p.rapidapi.com",
+      "Your Api key)"
     },
   };
 
